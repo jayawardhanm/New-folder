@@ -1,0 +1,10 @@
+E:\GTA 6\GTA RUN\cool_fox\pc_native\target\debug\build\windows-threading/50101c1f91057a3e\out\windows_threading-50101c1f91057a3e.d: C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\lib.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\bindings.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\pool.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\../readme.md
+
+E:\GTA 6\GTA RUN\cool_fox\pc_native\target\debug\build\windows-threading/50101c1f91057a3e\out\libwindows_threading-50101c1f91057a3e.rlib: C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\lib.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\bindings.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\pool.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\../readme.md
+
+E:\GTA 6\GTA RUN\cool_fox\pc_native\target\debug\build\windows-threading/50101c1f91057a3e\out\libwindows_threading-50101c1f91057a3e.rmeta: C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\lib.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\bindings.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\pool.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\../readme.md
+
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\lib.rs:
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\bindings.rs:
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\pool.rs:
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.2.1\src\../readme.md:

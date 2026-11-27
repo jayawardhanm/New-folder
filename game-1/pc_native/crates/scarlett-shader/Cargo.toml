@@ -1,0 +1,12 @@
+[package]
+name = "scarlett-shader"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+blake3.workspace = true
+tracing.workspace = true
+
+[lints]
+workspace = true

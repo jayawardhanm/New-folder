@@ -1,0 +1,19 @@
+[HLE] LoadLibraryExW: xgameruntime.dll flags=0x800
+[HLE] xgameruntime GetProcAddress: QueryApiImpl
+[HLE] xgameruntime GetProcAddress: InitializeApiImpl
+[HLE] xgameruntime GetProcAddress: InitializeApiImplEx
+[HLE] xgameruntime GetProcAddress: InitializeApiImplEx2
+[HLE] xgameruntime GetProcAddress: XErrorReport
+[HLE] xgameruntime GetProcAddress: UninitializeApiImpl
+[HLE] LoadLibraryW: dbghelp.dll
+[HLE] LoadLibraryW: rpcrt4.dll
+[GPU] D3D12XboxCreateDevice -> XboxDeviceX (0x1e4b871cbc0)
+[GPU] CreateCommandQueue type=D3D12_COMMAND_LIST_TYPE(0) prio=0 flags=D3D12_COMMAND_QUEUE_FLAGS(0) node=1
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] XboxDeviceX unimplemented slot 70 (offset 0x230)
+[GPU] XboxDeviceX unimplemented slot 127 (offset 0x3f8)
+[GPU] XboxDeviceX unimplemented slot 127 (offset 0x3f8)
+[VEH] continuing past Xbox memory-slack assert at 0x14247af2d

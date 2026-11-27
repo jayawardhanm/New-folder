@@ -1,0 +1,16 @@
+[package]
+name = "scarlett-gpu"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+blake3.workspace = true
+scarlett-shader.workspace = true
+tracing.workspace = true
+windows.workspace = true
+windows-core.workspace = true
+windows-sys.workspace = true
+
+[lints]
+workspace = true

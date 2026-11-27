@@ -1,0 +1,10 @@
+E:\GTA 6\GTA RUN\cool_fox\pc_native\target\debug\build\anstyle-wincon/29d1b95e24cf0818\out\anstyle_wincon-29d1b95e24cf0818.d: C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\lib.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\ansi.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\stream.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\windows.rs
+
+E:\GTA 6\GTA RUN\cool_fox\pc_native\target\debug\build\anstyle-wincon/29d1b95e24cf0818\out\libanstyle_wincon-29d1b95e24cf0818.rlib: C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\lib.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\ansi.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\stream.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\windows.rs
+
+E:\GTA 6\GTA RUN\cool_fox\pc_native\target\debug\build\anstyle-wincon/29d1b95e24cf0818\out\libanstyle_wincon-29d1b95e24cf0818.rmeta: C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\lib.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\ansi.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\stream.rs C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\windows.rs
+
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\lib.rs:
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\ansi.rs:
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\stream.rs:
+C:\Users\mahin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.11\src\windows.rs:

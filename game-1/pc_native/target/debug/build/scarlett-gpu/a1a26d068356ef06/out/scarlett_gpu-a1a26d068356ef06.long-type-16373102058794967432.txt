@@ -1,0 +1,2 @@
+&ID3D12Pageable: Param<windows::Win32::Graphics::Direct3D12::ID3D12CommandAllocator, windows::windows_core::InterfaceType>
+Param<windows::Win32::Graphics::Direct3D12::ID3D12CommandAllocator, windows::windows_core::InterfaceType>

@@ -1,0 +1,32 @@
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x600000000 alloc_type=0x20402000 flags=0x21 protect=0x4
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x600000000 alloc_type=0x20402000 flags=0x3 protect=0x801
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x49400000 alloc_type=0x20003000 flags=0x183 protect=0x22004
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x89700000 alloc_type=0x20003000 flags=0x283 protect=0x2404
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x23300000 alloc_type=0x20003000 flags=0x183 protect=0x22004
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x25400000 alloc_type=0x20003000 flags=0x183 protect=0x22004
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0x1400000 alloc_type=0x20403000 flags=0x181 protect=0x4
+[HLE] LoadLibraryExW: xgameruntime.dll flags=0x800
+[HLE] xgameruntime GetProcAddress: QueryApiImpl
+[HLE] xgameruntime GetProcAddress: InitializeApiImpl
+[HLE] xgameruntime GetProcAddress: InitializeApiImplEx
+[HLE] xgameruntime GetProcAddress: InitializeApiImplEx2
+[HLE] xgameruntime GetProcAddress: XErrorReport
+[HLE] xgameruntime GetProcAddress: UninitializeApiImpl
+[HLE] LoadLibraryW: dbghelp.dll
+[HLE] LoadLibraryW: rpcrt4.dll
+[GPU] D3D12XboxCreateDevice -> XboxDeviceX (0x1438b0c8cd0)
+[GPU] CreateCommandQueue type=D3D12_COMMAND_LIST_TYPE(0) prio=0 flags=D3D12_COMMAND_QUEUE_FLAGS(0) node=1
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[GPU] CreateCommandQueueX type=2 -> Ok("ok")
+[HLE] XMemVirtualAlloc large request addr=0x0 size=0xb900000 alloc_type=0x42000 flags=0x7 protect=0x1
+[HLE] XMemVirtualAlloc large request addr=0x150f95f0000 size=0xa00000 alloc_type=0x20406000 flags=0x27 protect=0x1004
+[HLE] XMemVirtualAlloc large request addr=0x150fa0f0000 size=0x1b00000 alloc_type=0x20406000 flags=0x27 protect=0x8404
+[HLE] XMemVirtualAlloc large request addr=0x150fbbf0000 size=0x2f00000 alloc_type=0x20406000 flags=0x27 protect=0x2404
+[HLE] XMemVirtualAlloc large request addr=0x150feaf0000 size=0x6400000 alloc_type=0x20406000 flags=0x27 protect=0x2004
+[GPU] XboxDeviceX unimplemented slot 70 (offset 0x230) this=0x1438b0c8cd0 ret=1
+[GPU] XboxDeviceX unimplemented slot 127 (offset 0x3f8) this=0x1438b0c8cd0 ret=1
+[GPU] XboxDeviceX unimplemented slot 127 (offset 0x3f8) this=0x1438b0c8cd0 ret=1
+[VEH] continuing past Xbox memory-slack assert at 0x14247af2d
+[VEH] C++ throw rip=0x7ffca570569a bt=["0x1800d2538", "0x1800d2538", "0x1800d2538", "0x1800cdbe8", "0x18000c468", "0x1800203b7", "0x18000d8a1", "0x1406eb8c2"]

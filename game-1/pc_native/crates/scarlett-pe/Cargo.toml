@@ -1,0 +1,13 @@
+[package]
+name = "scarlett-pe"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+thiserror.workspace = true
+tracing.workspace = true
+windows-sys.workspace = true
+
+[lints]
+workspace = true

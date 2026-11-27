@@ -1,0 +1,14 @@
+[package]
+name = "scarlett-hle"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+scarlett-gpu.workspace = true
+scarlett-pe.workspace = true
+tracing.workspace = true
+windows-sys.workspace = true
+
+[lints]
+workspace = true

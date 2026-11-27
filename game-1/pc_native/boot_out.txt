@@ -1,0 +1,18 @@
+[2m2026-11-27T06:47:48.338538Z[0m [32m INFO[0m [2mscarlett_gpu[0m[2m:[0m initialized PC-native D3D12Device8 (Direct + Compute + Copy queues)
+[2m2026-11-27T06:47:48.339204Z[0m [32m INFO[0m [2mscarlett_pe[0m[2m:[0m mapped PE32+ image [3mname[0m[2m=[0mXboxBvhBuilder.dll [3mbase[0m[2m=[0m0x180000000 [3mpreferred[0m[2m=[0m0x180000000 [3msize_mb[0m[2m=[0m0
+[2m2026-11-27T06:47:48.339471Z[0m [32m INFO[0m [2mscarlett_pe[0m[2m:[0m mapped PE32+ image [3mname[0m[2m=[0mamd_fidelityfx_loader_xbox.dll [3mbase[0m[2m=[0m0x1e4b2370000 [3mpreferred[0m[2m=[0m0x180000000 [3msize_mb[0m[2m=[0m0
+[2m2026-11-27T06:47:48.340048Z[0m [32m INFO[0m [2mscarlett_pe[0m[2m:[0m mapped PE32+ image [3mname[0m[2m=[0mlibHttpClient.GDK.dll [3mbase[0m[2m=[0m0x1e4b9020000 [3mpreferred[0m[2m=[0m0x180000000 [3msize_mb[0m[2m=[0m0
+[2m2026-11-27T06:47:48.340382Z[0m [32m INFO[0m [2mscarlett_pe[0m[2m:[0m mapped PE32+ image [3mname[0m[2m=[0mBink2Scarlett.dll [3mbase[0m[2m=[0m0x1e4b2380000 [3mpreferred[0m[2m=[0m0x180000000 [3msize_mb[0m[2m=[0m0
+[2m2026-11-27T06:47:48.376052Z[0m [32m INFO[0m [2mscarlett_pe[0m[2m:[0m mapped PE32+ image [3mname[0m[2m=[0mgame_scarlett_master.exe [3mbase[0m[2m=[0m0x140000000 [3mpreferred[0m[2m=[0m0x140000000 [3msize_mb[0m[2m=[0m176
+[2m2026-11-27T06:47:48.379916Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m bound companion DLL [3mmodule[0m[2m=[0mXboxBvhBuilder.dll [3mbound[0m[2m=[0m57 [3mmissing[0m[2m=[0m0
+[2m2026-11-27T06:47:48.380123Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m bound companion DLL [3mmodule[0m[2m=[0mamd_fidelityfx_loader_xbox.dll [3mbound[0m[2m=[0m22 [3mmissing[0m[2m=[0m0
+[2m2026-11-27T06:47:48.381286Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m bound companion DLL [3mmodule[0m[2m=[0mlibHttpClient.GDK.dll [3mbound[0m[2m=[0m198 [3mmissing[0m[2m=[0m0
+[2m2026-11-27T06:47:48.381645Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m bound companion DLL [3mmodule[0m[2m=[0mBink2Scarlett.dll [3mbound[0m[2m=[0m60 [3mmissing[0m[2m=[0m0
+[2m2026-11-27T06:47:48.385143Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m bound executable [3mmodule[0m[2m=[0mgame_scarlett_master.exe [3mbound[0m[2m=[0m587 [3mmissing[0m[2m=[0m0
+[2m2026-11-27T06:47:48.385613Z[0m [32m INFO[0m [2mscarlett[0m[2m:[0m PC-native runtime initialized [3mep[0m[2m=[0m0x1456a1ec8 [3mdry_run[0m[2m=[0mfalse
+[2m2026-11-27T06:47:48.385716Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m calling DllMain [3mmodule[0m[2m=[0mXboxBvhBuilder.dll
+[2m2026-11-27T06:47:48.385794Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m calling DllMain [3mmodule[0m[2m=[0mamd_fidelityfx_loader_xbox.dll
+[2m2026-11-27T06:47:48.385869Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m calling DllMain [3mmodule[0m[2m=[0mlibHttpClient.GDK.dll
+[2m2026-11-27T06:47:48.385947Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m calling DllMain [3mmodule[0m[2m=[0mBink2Scarlett.dll
+[2m2026-11-27T06:47:48.386019Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m running exe TLS callbacks & entering exe [3mcallbacks[0m[2m=[0m2
+[2m2026-11-27T06:47:48.386091Z[0m [32m INFO[0m [2mscarlett_hle[0m[2m:[0m entering exe entrypoint
